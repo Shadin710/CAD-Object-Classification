@@ -42,6 +42,7 @@ pip install -r requirment.txt
 ## CAD to Point-Cloud
 To Predict 3D object classification we need to transform the 3D Object to a **Point-Cloud**
 ![alt text](https://github.com/Shadin710/CAD-Object-Classification/blob/main/Images/point_cloud.png?raw=True)
+
 Then we will be able to run [**PointNet**](https://github.com/charlesq34/pointnet) Architecture.
 ## Accuracy & Loss 
 Epoch Size: 20\
