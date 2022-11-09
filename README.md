@@ -7,7 +7,7 @@ A Deep-Learning model that can help us to classify 3D object using PoinNet Archi
 The dataset was taken from [Princeton Modelnet](https://modelnet.cs.princeton.edu/).
 
 [Modelnet10 Download ](http://3dvision.princeton.edu/projects/2014/3DShapeNets/ModelNet10.zip) 
-![alt text](https://github.com/Shadin710/Brain-Tumor-Prediction/blob/main/images/brain_tumor.png?raw=True)
+![alt text](https://github.com/Shadin710/CAD-Object-Classification/blob/main/Images/A-sample-model-from-each-category-of-the-ModelNet10-dataset.png?raw=True)
 
 ## Language & OS
 1. **Python 3.10.4**
@@ -39,6 +39,10 @@ To install all these modules copy the requirement.txt file and run the below com
 ```bash
 pip install -r requirment.txt
 ```
+## CAD to Point-Cloud
+To Predict 3D object classification we need to transform the 3D Object to a **Point-Cloud**
+![alt text](https://github.com/Shadin710/CAD-Object-Classification/blob/main/Images/point_cloud.png?raw=True)
+Then we will be able to run [**PointNet**](https://github.com/charlesq34/pointnet) Architecture.
 ## Accuracy & Loss 
 Epoch Size: 20\
 Batch size: 32\
@@ -47,7 +51,7 @@ Train Accuracy: 91.54%\
 Validation Accuracy: 88.54%\
 Accuracy: 94.03%
 
-![alt text](https://github.com/Shadin710/Brain-Tumor-Prediction/blob/main/images/accuracy_loss.png?raw=true)
+<!-- ![alt text](https://github.com/Shadin710/Brain-Tumor-Prediction/blob/main/images/accuracy_loss.png?raw=true) -->
 
 
 
