@@ -48,8 +48,6 @@ Then we will be able to run [**PointNet**](https://github.com/charlesq34/pointne
 Epoch Size: 20\
 Batch size: 32\
 Learning rate: 0.001\
-Train Accuracy: 91.54%\
-Validation Accuracy: 88.54%\
 Accuracy: 94.03%
 
 <!-- ![alt text](https://github.com/Shadin710/Brain-Tumor-Prediction/blob/main/images/accuracy_loss.png?raw=true) -->
