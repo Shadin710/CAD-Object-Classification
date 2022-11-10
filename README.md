@@ -45,7 +45,7 @@ To Predict 3D object classification we need to transform the 3D Object to a **Po
 
 Then we will be able to run [**PointNet**](https://github.com/charlesq34/pointnet) Architecture.
 ## Accuracy & Loss 
-Epoch Size: 20\
+Epoch Size: 50\
 Batch size: 32\
 Learning rate: 0.001\
 Accuracy: 94.03%
